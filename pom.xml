@@ -8,7 +8,7 @@
   <name>Interceptor Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <properties>
-		<spring.version>4.3.13.RELEASE</spring.version>
+		<spring.version>5.3.18</spring.version>
 		<tiles.version>3.0.8</tiles.version>
 		<servlet.version></servlet.version>
 		<hibernate.version>4.3.11.Final</hibernate.version>
